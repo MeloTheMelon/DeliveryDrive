@@ -1,0 +1,147 @@
+fileFormatVersion: 2
+guid: 77616f676b7167a4a9dc7379af272230
+timeCreated: 1481289232
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Door
+    100002: Fence
+    100004: House_19
+    100006: //RootNode
+    100008: House_19 1
+    100010: polySurface944
+    100012: polySurface971
+    100014: polySurface972
+    100016: Roof
+    100018: Roof 1
+    100020: Stairs
+    100022: Water_towerq
+    100024: Window_1
+    100026: Window_2
+    100028: Window_3
+    100030: Window_4
+    400000: Door
+    400002: Fence
+    400004: House_19
+    400006: //RootNode
+    400008: House_19 1
+    400010: polySurface944
+    400012: polySurface971
+    400014: polySurface972
+    400016: Roof
+    400018: Roof 1
+    400020: Stairs
+    400022: Water_towerq
+    400024: Window_1
+    400026: Window_2
+    400028: Window_3
+    400030: Window_4
+    2300000: Door
+    2300002: Fence
+    2300004: House_19
+    2300006: House_19 1
+    2300008: polySurface971
+    2300010: polySurface972
+    2300012: Roof
+    2300014: Roof 1
+    2300016: Stairs
+    2300018: Water_towerq
+    2300020: Window_1
+    2300022: Window_2
+    2300024: Window_3
+    2300026: Window_4
+    3300000: Door
+    3300002: Fence
+    3300004: House_19
+    3300006: House_19 1
+    3300008: polySurface971
+    3300010: polySurface972
+    3300012: Roof
+    3300014: Roof 1
+    3300016: Stairs
+    3300018: Water_towerq
+    3300020: Window_1
+    3300022: Window_2
+    3300024: Window_3
+    3300026: Window_4
+    4300000: Door
+    4300002: polySurface971
+    4300004: polySurface972
+    4300006: House_19
+    4300008: Roof
+    4300010: Roof
+    4300012: Window_3
+    4300014: Window_1
+    4300016: Window_2
+    4300018: Window_4
+    4300020: Water_towerq
+    4300022: Stairs
+    4300024: Fence
+    4300026: House_19
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

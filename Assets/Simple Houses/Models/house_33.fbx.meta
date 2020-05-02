@@ -1,0 +1,246 @@
+fileFormatVersion: 2
+guid: 32175f931769b524dae7777a3fbac017
+timeCreated: 1481289228
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Antenne
+    100002: Door
+    100004: Door 1
+    100006: House_33
+    100008: //RootNode
+    100010: Platform
+    100012: polySurface1986
+    100014: polySurface1987
+    100016: polySurface1992
+    100018: polySurface1996
+    100020: polySurface1997
+    100022: polySurface1998
+    100024: polySurface2003
+    100026: polySurface2017
+    100028: polySurface2022
+    100030: polySurface2027
+    100032: polySurface2028
+    100034: polySurface2029
+    100036: polySurface2031
+    100038: Rails
+    100040: Rails_2
+    100042: Roof
+    100044: Umbrella
+    100046: Window_1
+    100048: Window_10
+    100050: Window_11
+    100052: Window_12
+    100054: Window_13
+    100056: Window_2
+    100058: Window_3
+    100060: Window_4
+    100062: Window_5
+    100064: Window_6
+    100066: Window_7
+    100068: Window_8
+    100070: Window_9
+    400000: Antenne
+    400002: Door
+    400004: Door 1
+    400006: House_33
+    400008: //RootNode
+    400010: Platform
+    400012: polySurface1986
+    400014: polySurface1987
+    400016: polySurface1992
+    400018: polySurface1996
+    400020: polySurface1997
+    400022: polySurface1998
+    400024: polySurface2003
+    400026: polySurface2017
+    400028: polySurface2022
+    400030: polySurface2027
+    400032: polySurface2028
+    400034: polySurface2029
+    400036: polySurface2031
+    400038: Rails
+    400040: Rails_2
+    400042: Roof
+    400044: Umbrella
+    400046: Window_1
+    400048: Window_10
+    400050: Window_11
+    400052: Window_12
+    400054: Window_13
+    400056: Window_2
+    400058: Window_3
+    400060: Window_4
+    400062: Window_5
+    400064: Window_6
+    400066: Window_7
+    400068: Window_8
+    400070: Window_9
+    2300000: Antenne
+    2300002: Door
+    2300004: Door 1
+    2300006: House_33
+    2300008: Platform
+    2300010: polySurface1987
+    2300012: polySurface1992
+    2300014: polySurface1996
+    2300016: polySurface1997
+    2300018: polySurface1998
+    2300020: polySurface2003
+    2300022: polySurface2017
+    2300024: polySurface2022
+    2300026: polySurface2027
+    2300028: polySurface2028
+    2300030: polySurface2029
+    2300032: polySurface2031
+    2300034: Rails
+    2300036: Rails_2
+    2300038: Roof
+    2300040: Umbrella
+    2300042: Window_1
+    2300044: Window_10
+    2300046: Window_11
+    2300048: Window_12
+    2300050: Window_13
+    2300052: Window_2
+    2300054: Window_3
+    2300056: Window_4
+    2300058: Window_5
+    2300060: Window_6
+    2300062: Window_7
+    2300064: Window_8
+    2300066: Window_9
+    3300000: Antenne
+    3300002: Door
+    3300004: Door 1
+    3300006: House_33
+    3300008: Platform
+    3300010: polySurface1987
+    3300012: polySurface1992
+    3300014: polySurface1996
+    3300016: polySurface1997
+    3300018: polySurface1998
+    3300020: polySurface2003
+    3300022: polySurface2017
+    3300024: polySurface2022
+    3300026: polySurface2027
+    3300028: polySurface2028
+    3300030: polySurface2029
+    3300032: polySurface2031
+    3300034: Rails
+    3300036: Rails_2
+    3300038: Roof
+    3300040: Umbrella
+    3300042: Window_1
+    3300044: Window_10
+    3300046: Window_11
+    3300048: Window_12
+    3300050: Window_13
+    3300052: Window_2
+    3300054: Window_3
+    3300056: Window_4
+    3300058: Window_5
+    3300060: Window_6
+    3300062: Window_7
+    3300064: Window_8
+    3300066: Window_9
+    4300000: polySurface1987
+    4300002: Door
+    4300004: polySurface1992
+    4300006: polySurface1996
+    4300008: polySurface1997
+    4300010: polySurface1998
+    4300012: polySurface2003
+    4300014: Platform
+    4300016: polySurface2017
+    4300018: polySurface2022
+    4300020: polySurface2027
+    4300022: polySurface2028
+    4300024: polySurface2029
+    4300026: polySurface2031
+    4300028: Antenne
+    4300030: House_33
+    4300032: Rails
+    4300034: Rails_2
+    4300036: Roof
+    4300038: Umbrella
+    4300040: Door
+    4300042: Window_1
+    4300044: Window_2
+    4300046: Window_3
+    4300048: Window_4
+    4300050: Window_5
+    4300052: Window_6
+    4300054: Window_7
+    4300056: Window_8
+    4300058: Window_9
+    4300060: Window_10
+    4300062: Window_11
+    4300064: Window_12
+    4300066: Window_13
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

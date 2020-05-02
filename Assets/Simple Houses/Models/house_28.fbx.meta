@@ -1,0 +1,196 @@
+fileFormatVersion: 2
+guid: 3ac48745489212c43abab705c2d60dfd
+timeCreated: 1481289830
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Antenne
+    100002: Door
+    100004: Door1
+    100006: Fence
+    100008: Fence1
+    100010: Fence2
+    100012: Fence3
+    100014: Fence4
+    100016: House_28
+    100018: //RootNode
+    100020: Latern1
+    100022: pipe
+    100024: Platform
+    100026: polySurface1967
+    100028: polySurface1972
+    100030: polySurface2061
+    100032: polySurface2062
+    100034: Rails1
+    100036: Roof1
+    100038: Stairs1
+    100040: Window_10
+    100042: Window_11
+    100044: Window_12
+    100046: Window_13
+    100048: Window_14
+    100050: Window_9
+    400000: Antenne
+    400002: Door
+    400004: Door1
+    400006: Fence
+    400008: Fence1
+    400010: Fence2
+    400012: Fence3
+    400014: Fence4
+    400016: House_28
+    400018: //RootNode
+    400020: Latern1
+    400022: pipe
+    400024: Platform
+    400026: polySurface1967
+    400028: polySurface1972
+    400030: polySurface2061
+    400032: polySurface2062
+    400034: Rails1
+    400036: Roof1
+    400038: Stairs1
+    400040: Window_10
+    400042: Window_11
+    400044: Window_12
+    400046: Window_13
+    400048: Window_14
+    400050: Window_9
+    2300000: Antenne
+    2300002: Door
+    2300004: Door1
+    2300006: Fence
+    2300008: Fence1
+    2300010: Fence2
+    2300012: Fence3
+    2300014: Fence4
+    2300016: House_28
+    2300018: Latern1
+    2300020: pipe
+    2300022: Platform
+    2300024: polySurface1972
+    2300026: polySurface2061
+    2300028: polySurface2062
+    2300030: Rails1
+    2300032: Roof1
+    2300034: Stairs1
+    2300036: Window_10
+    2300038: Window_11
+    2300040: Window_12
+    2300042: Window_13
+    2300044: Window_14
+    2300046: Window_9
+    3300000: Antenne
+    3300002: Door
+    3300004: Door1
+    3300006: Fence
+    3300008: Fence1
+    3300010: Fence2
+    3300012: Fence3
+    3300014: Fence4
+    3300016: House_28
+    3300018: Latern1
+    3300020: pipe
+    3300022: Platform
+    3300024: polySurface1972
+    3300026: polySurface2061
+    3300028: polySurface2062
+    3300030: Rails1
+    3300032: Roof1
+    3300034: Stairs1
+    3300036: Window_10
+    3300038: Window_11
+    3300040: Window_12
+    3300042: Window_13
+    3300044: Window_14
+    3300046: Window_9
+    4300000: pipe
+    4300002: Door
+    4300004: House_28
+    4300006: Platform
+    4300008: polySurface1972
+    4300010: Antenne
+    4300012: Door1
+    4300014: polySurface2061
+    4300016: polySurface2062
+    4300018: Roof1
+    4300020: Rails1
+    4300022: Window_14
+    4300024: Window_13
+    4300026: Stairs1
+    4300028: Fence4
+    4300030: Fence1
+    4300032: Fence
+    4300034: Fence2
+    4300036: Fence3
+    4300038: Latern1
+    4300040: Window_9
+    4300042: Window_10
+    4300044: Window_11
+    4300046: Window_12
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
